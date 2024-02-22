@@ -4,4 +4,4 @@ The dataset is taken from all the ML Edge lectures and divided into two files th
  
 The Retrieval part of the project is done using ColBert 
 
-The Generation part of the project is still under progress and being tested with t5-base and gpt2 
+The Generation part of the project is still under progress and being tested with t5-base and GPT 3.5 with the Langchain framework  
